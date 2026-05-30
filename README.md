@@ -7,7 +7,7 @@
 load("eda_5m32s_23ptcp_shift.mat")
 eda = eda_5m32s_23ptcp_shift.eda;
 ```
-`eda` is a matrix with 23 columns. Each column is the EDA signal of a subject of 5 min and 32 seconds long, measured at 4Hz. **Video starts at 6th seconds**.
+`eda` is a matrix with 23 columns. Each column is the EDA signal of a subject of 5 min and 32 seconds long, measured at 4Hz. **Video starts at 7th seconds**.
 
 ### video content
 - 0:00 – 0:28:  Neutral video, scene of people walking on a busy city street
